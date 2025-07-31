@@ -11,7 +11,7 @@ This Power BI dashboard visualizes item sales data from 2010–2022. It includes
 
 ## 🧰 Tools Used
 - Power BI Desktop
-- Bookmarks, Selection Pane, Buttons
+- Buttons
 - DAX for KPI and calculated values
 
 ## 📸 Screenshot
