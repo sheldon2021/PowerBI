@@ -7,7 +7,7 @@ A clean, modern weather dashboard showing:
 - Sunrise & sunset times
 
 ## 🚀 Screenshot
-![Weather Dashboard Screenshot](assets/weatherdats.png)
+![Weather Dashboard Screenshot](./weatherdats.png)
 
 ## 🛠 Features
 - Real-time weather & AQI data
